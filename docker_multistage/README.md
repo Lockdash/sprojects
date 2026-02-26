@@ -9,7 +9,7 @@ git clone https://github.com/Lockdash/sprojects.git
 ```
 2. Перейдите в папку репозитория
 ```
-cd sprojects
+cd sprojects/docker_multistage
 ```
 3. Смонтируйте образ
 ```
