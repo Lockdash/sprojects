@@ -1,0 +1,3 @@
+# checking every minute
+
+* * * * * /usr/bin/python3 /path/to/script/health_check.py
