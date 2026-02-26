@@ -16,7 +16,7 @@ git clone https://github.com/boxfuse/boxfuse-sample-java-war-hello.git
 ```
 4. Запустите docker-compose.yml 
 ```
-docker-compose up
+docker-compose up -d
 ```
 5. Проверьте доступность приложения по адресу http://ip_address:8083/hello-1.0/, где ip_address - адрес вашей машины
 <img width="804" height="538" alt="image" src="https://github.com/user-attachments/assets/06fb7447-2484-4d21-9e88-2d65b36b5617" />
