@@ -1,5 +1,7 @@
 <h3>Сборка и деплой простого war-файла внутри контейнера</h3>
 
+В качестве учебного проекта используется [boxfuse-sample-java-war-hello](https://github.com/boxfuse/boxfuse-sample-java-war-hello)
+
 1. Скачайте репозиторий
    
 ```
