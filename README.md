@@ -2,7 +2,7 @@
 
 <ol>
 <li><h5>alarm_bot</h5> - Python-скрипт мониторинга доступности сайта с отправкой уведомлений в Telegram при сбоях</li>
-<li><h5>ansible_build_deploy</h5> - Ansible-плейбук для полного цикла: сборка WAR-файла и его развертывание на Ubuntu 22.04</li>
+<li><h5>ansible_build_deploy</h5> - Ansible-плейбук для сборки WAR-файла и развертывания на Ubuntu 22.04</li>
 <li><h5>back_bash_script</h5> - Bash-скрипт для логирования: перенос логов на удаленный сервер, ротация логов старше семи дней</li>
 <li><h5>docker-compose</h5> - Автоматизация сборки и деплоя WAR-файла с помощью Docker Compose</li>
 <li><h5>docker_multistage</h5> - Многоступенчатая Docker-сборка: компиляция WAR-файла и развертывание в контейнере с Tomcat</li>
